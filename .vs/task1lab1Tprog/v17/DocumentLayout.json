@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\2-\u0439 \u043A\u0443\u0440\u0441\\\u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u0438 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u044F\\1-\u044F \u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430\\task1lab1Tprog\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{86165A12-9A29-4FA4-A22E-9028C9BFC019}|task1lab1Tprog\\task1lab1Tprog.csproj|e:\\2-\u0439 \u043A\u0443\u0440\u0441\\\u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u0438 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u044F\\1-\u044F \u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430\\task1lab1tprog\\task1lab1tprog\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86165A12-9A29-4FA4-A22E-9028C9BFC019}|task1lab1Tprog\\task1lab1Tprog.csproj|solutionrelative:task1lab1tprog\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03A5CE36-4094-4D89-8E71-7913A21860BB}|task1lab1TprogTests\\task1lab1TprogTests.csproj|E:\\2-\u0439 \u043A\u0443\u0440\u0441\\\u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u0438 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u044F\\1-\u044F \u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430\\task1lab1Tprog\\task1lab1tprogtests\\logictests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03A5CE36-4094-4D89-8E71-7913A21860BB}|task1lab1TprogTests\\task1lab1TprogTests.csproj|solutionrelative:task1lab1tprogtests\\logictests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LogicTests.cs",
+              "DocumentMoniker": "E:\\2-\u0439 \u043A\u0443\u0440\u0441\\\u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u0438 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u044F\\1-\u044F \u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430\\task1lab1Tprog\\task1lab1TprogTests\\LogicTests.cs",
+              "RelativeDocumentMoniker": "task1lab1TprogTests\\LogicTests.cs",
+              "ToolTip": "E:\\2-\u0439 \u043A\u0443\u0440\u0441\\\u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u0438 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u044F\\1-\u044F \u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430\\task1lab1Tprog\\task1lab1TprogTests\\LogicTests.cs",
+              "RelativeToolTip": "task1lab1TprogTests\\LogicTests.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAADwvzUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T04:15:07.967Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\2-\u0439 \u043A\u0443\u0440\u0441\\\u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u0438 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u044F\\1-\u044F \u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430\\task1lab1Tprog\\task1lab1Tprog\\Program.cs",
+              "RelativeDocumentMoniker": "task1lab1Tprog\\Program.cs",
+              "ToolTip": "E:\\2-\u0439 \u043A\u0443\u0440\u0441\\\u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u0438 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u044F\\1-\u044F \u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430\\task1lab1Tprog\\task1lab1Tprog\\Program.cs",
+              "RelativeToolTip": "task1lab1Tprog\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T04:15:08.03Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
